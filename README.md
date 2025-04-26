@@ -2,7 +2,7 @@
 
 YoussefKey is a lightweight and easy-to-use tool that automatically converts typing between Arabic and English when you accidentally type in the wrong keyboard layout.
 
-:⚙How to Use 
+How to Use⚙:
 1- Run the app as Administrator.
 2- Type your text in any layout, even if it’s wrong.
 3- Select the text using your mouse or press Ctrl + A.
